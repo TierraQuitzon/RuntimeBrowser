@@ -1,5 +1,5 @@
-/*
- 
+/!
+*
  AllClasses.m created by eepstein on Sat 16-Mar-2002 
 
  Author: Ezra Epstein (eepstein@prajna.com)
@@ -247,3 +247,4 @@ We autorelease and reset the nil the global, static containers that
 }
 
 @end
+ 
